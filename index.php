@@ -22,8 +22,11 @@ echo "<br>"."Adding new data Does the pipelione auto work?";
 </form>
 
 <?php
+echo "<br>";
      $num1 = $_GET["num1"];
+echo "<br>";
      $num2 = $_GET["num2"];
+echo "<br>";
      echo $num1 + $num2;
 ?>
 
