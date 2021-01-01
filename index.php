@@ -50,7 +50,6 @@ echo "<br>";
       <link rel="stylesheet" href="style.css" />
       <title> Weather </title>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-chrome://flags/#unsafely-treat-insecure-origin-as-secure
    </head>
 
    <body>
